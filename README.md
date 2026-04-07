@@ -71,10 +71,10 @@ In-app video trimming and frame preview implemented natively in Flutter. Covers 
 
 ---
 
-### 🚁 Drone Control System
+### 🖥️ Operations Desktop App
 > `Flutter` `Dart` `BLoC`
 
-State management architecture for controlling drone fleets and coordinating multi-operation workflows. Built around BLoC with an emphasis on predictable state transitions and handling concurrent async events without race conditions.
+A desktop application built with Flutter for managing multi-entity operations and workflows. Architecture centers on BLoC — predictable state transitions, clean event handling, and solid async coordination across concurrent operation streams.
 
 ---
 
@@ -89,7 +89,7 @@ State management architecture for controlling drone fleets and coordinating mult
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaache&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Vaache&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
