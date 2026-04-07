@@ -5,7 +5,6 @@
 **Mobile engineer. Backend-capable. Architecture-minded.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaache-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaache)
-![Profile Views](https://komarev.com/ghpvc/?username=Vaache&style=flat-square&color=0A66C2&label=profile+views)
 
 </div>
 
