@@ -50,7 +50,7 @@ On the backend side, I work with Node.js and TypeScript, with PostgreSQL as the 
 
 ## Featured Projects
 
-### 🏆 Win — Ranking & Notification Backend
+### 🏆 WIM — Ranking & Notification Backend
 > `Node.js` `TypeScript` `PostgreSQL` `Redis`
 
 A backend system built for a competitive app — handles player ranking logic, real-time notification delivery, and result caching via Redis. Designed around performance constraints with a focus on data consistency and low-latency reads under load.
