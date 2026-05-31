@@ -11,7 +11,7 @@ Most production work lives in **private repositories**.
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaache-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaache)
-[![Telegram](https://img.shields.io/badge/Telegram-@Vaache-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vaache)
+[![Telegram](https://img.shields.io/badge/Telegram-@Vaacheee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vaacheee)
 
 </div>
 
@@ -163,6 +163,6 @@ Armenian (Native) · Russian (Advanced) · English (Intermediate — actively im
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaache-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaache)
-[![Telegram](https://img.shields.io/badge/Telegram-@Vaache-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vaache)
+[![Telegram](https://img.shields.io/badge/Telegram-@Vaacheee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vaacheee)
 
 </div>
